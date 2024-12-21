@@ -1,0 +1,2 @@
+# Fumobot_search_activity
+基于Python的东方活动查询程序
